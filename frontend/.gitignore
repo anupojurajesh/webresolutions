@@ -1,0 +1,33 @@
+# Dependency directories
+/node_modules
+
+# Next.js build output
+/.next
+
+# Environment files
+.env
+
+
+
+
+# OS or Editor specific files
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE or Editor settings
+.vscode/
+.idea/
+
+# macOS specific files
+*.DS_Store
+
+# Compiled files
+/dist
+/build
+
+# Optional: local config files that should not be shared
+/config/local.js
